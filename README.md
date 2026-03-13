@@ -37,7 +37,8 @@ I aim to keep learning, building projects, and improving my skills in software d
 - You can reach me at:
 **jamshedpanhwar1@gmail.com**
 - Or can connect with me on my LinkedIn:
-**https://www.linkedin.com/in/jamshed-ali-panhwar**
+**https://www.linkedin.com/in/jamshed-ali-panhwar-6a005b384**
+  
 ---
 
 ⭐ Feel free to explore my repositories and follow my learning journey!
