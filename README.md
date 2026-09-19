@@ -1,21 +1,29 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Jamshed%20Ali&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Undergraduate%20Software%20Engineer%20%2B%20Exploring%20AI%2FML%20%26%20Data%20Science&amp;descAlignY=55&amp;descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:16213E,100:E94560&height=150&section=header&text=Jamshed%20Ali&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=50" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=600&height=45&lines=Undergraduate+Software+Engineering+Student;Exploring+AI%2C+ML+and+Data+Science" />
 </p>
 
 ---
 
 ## 🚀 Currently Learning
 
-* Programming fundamentals
-* Data structures and problem solving
-* Statistics and analytical thinking
-* Data science concepts and tools
+* Data Structures and Algorithms
+* Database Management Systems
+* Data Science, AI/ML Concepts and Tools
+* Statistics and Analytical Thinking
 
 ---
 
 ## 💻 Programming Languages
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)](https://www.java.com/) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)](https://isocpp.org/) [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)](https://www.postgresql.org/)
+<p align="left">
+  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" alt="Java" height="55"/></a>
+  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="55"/></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="SQL" height="55"/></a>
+</p>
 
 ---
 
@@ -32,7 +40,11 @@ You can explore the repositories for more details on these projects.
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jamshed-ali-panhwar-6a005b384) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:jamshedpanhwar1@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/JamshedAli01)
+<p align="left">
+  <a href="https://www.linkedin.com/in/jamshed-ali-panhwar-6a005b384"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="55"/></a>
+  <a href="mailto:jamshedpanhwar1@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="55"/></a>
+  <a href="https://github.com/JamshedAli01"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="55"/></a>
+</p>
 
 ---
 
