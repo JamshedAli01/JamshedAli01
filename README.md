@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jamshed%20Ali&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Undergraduate%20Software%20Engineer%20%2B%20Exploring%20AI%2FML%20%26%20Data%20Science&descAlignY=55&descSize=18" />
 </p>
 
+---
+
 ## 🚀 Currently Learning
 - Programming fundamentals
 - Data structures and problem solving
