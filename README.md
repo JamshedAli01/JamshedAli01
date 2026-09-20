@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=600&height=45&lines=Undergraduate+Software+Engineering+Student;Exploring+AI%2C+ML+and+Data+Science" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=600&height=45&lines=Software+Engineering+Undergraduate;Exploring+AI%2C+ML+and+Data+Science" />
 </p>
 
 ---
